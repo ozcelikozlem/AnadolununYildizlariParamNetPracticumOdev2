@@ -1,2 +1,2 @@
 # AnadolununYildizlariParamNetPracticumOdev2
-mnbv
+
